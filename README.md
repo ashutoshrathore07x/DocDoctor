@@ -7,20 +7,21 @@ This project is a Flutter Web application showing how to create a rich text edit
 ### Realtime Changes - Collaboration
 Collaborate with other users on the same document in real-time.
 
+  ![Screenshot (51)](https://github.com/user-attachments/assets/2b9d141a-908d-48ec-9695-efa7703268da)
 
 
 ### Create and Open Documents
 Easily create and re-open documents. Everything is saved to your Appwrite database.
 
 
+![Screenshot (52)](https://github.com/user-attachments/assets/a2836c61-c167-437a-a774-8763819b186b)
 
 
 ### Authentication - Sign-in and Create New Accounts
 Easy authentication using Appwrite.
 
-
-
-
+![Screenshot (55)](https://github.com/user-attachments/assets/d587e4dd-d560-496a-a3e3-52f81df39f51)
+![Screenshot (54)](https://github.com/user-attachments/assets/1e0d095c-948c-471b-be88-56cb257fb740)
 
 ## Packages
 Packages used in this project.
